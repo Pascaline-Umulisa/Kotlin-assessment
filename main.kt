@@ -17,7 +17,7 @@ fun main(){
     assignProducts(a)
     assignProducts(b)
     assignProducts(c)
-    assignProducts(d)ls
+    assignProducts(d)
 
     evenIndicesChar("banana")
     evenIndicesChar("Pascaline")
